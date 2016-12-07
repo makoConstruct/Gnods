@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "preserveConstEnums": true,
+        "target": "ES5",
+        "sourceMap": true,
+        "module": "commonjs"
+    },
+    "files": [ "Gnods.ts", "itemRank.ts" ]
+}

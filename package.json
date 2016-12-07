@@ -1,0 +1,17 @@
+{
+  "name": "Gnods",
+  "version": "1.0.0",
+  "description": "an api for network graph structures",
+  "main": "Gnods.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "typescript": "^2.0.10",
+    "webpack": "^1.13.3",
+    "ts-loader": "^1.2.2",
+    "@types/es6-shim": "^0.31.32"
+  },
+  "author": "mako yass",
+  "license": "MIT"
+}
